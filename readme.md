@@ -1,5 +1,12 @@
 # Line Follower
 
+- [Line Follower](#line-follower)
+  - [About the team](#about-the-team)
+  - [Task Requirements](#task-requirements)
+  - [The line follower in action](#the-line-follower-in-action)
+  - [PID Control Algorithm](#pid-control-algorithm)
+  - [Challenges](#challenges)
+
 The line follower robot is built using an Arduino microcontroller and the QTRSensors library. The robot is designed to follow a black line on a white surface and uses a PID control algorithm to adjust the speed of the two motors that drive the robot based on the position of the robot over the line.
 
 ## About the team
